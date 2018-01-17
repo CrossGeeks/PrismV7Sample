@@ -19,17 +19,14 @@ namespace PrismUnitySample
 
 
             //Uncomment this list to Test Prism Tabbed Page 
-            //NavigationService.NavigateAsync(new System.Uri("/NavigationPage/CustomTabbedPage/Test2Page", System.UriKind.Absolute));
-            // NavigationService.NavigateAsync(new System.Uri("/NavigationPage/CustomTabbedPage?selectedTab=Test2Page", System.UriKind.Absolute));
+             NavigationService.NavigateAsync(new System.Uri("/NavigationPage/CustomTabbedPage?selectedTab=Test2Page", System.UriKind.Absolute));
 
             //Uncomment this list to Test Prism Master DetailPage 
             //  NavigationService.NavigateAsync(new System.Uri("/CustomMasterDetailPage/NavigationPage/Test2Page", System.UriKind.Absolute));
 
             //Uncomment this list to Test Prism general concepts as Custom NavigationPage/Modules/DelegateCommands/Services 
-            NavigationService.NavigateAsync(new System.Uri("http://www.MyTestApp/CustomNavigationPage/LoginPage", System.UriKind.Absolute));
-
-
-            NavigationService.NavigateAsync(new System.Uri("../HomePage", System.UriKind.Absolute));
+            //NavigationService.NavigateAsync(new System.Uri("http://www.MyTestApp/CustomNavigationPage/LoginPage", System.UriKind.Absolute));
+             
 
         }
 
