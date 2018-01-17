@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{9E6370AF-2947-47FC-A57B-0C10910CF06D}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrismUnitySample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D94C04AA-E4BC-4F38-A9DD-A729F931AD2D" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrismUnitySample.Droid PreferredExecutionTarget="Android.192.168.123.101:5555" />
+</Properties>
